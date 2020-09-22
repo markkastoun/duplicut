@@ -98,7 +98,7 @@ So complexity is equal to ![][latex-n]th *triangle number*:
 ![][img-3-chunked-processing]
 
 
-## Throubleshotting
+## Troubleshooting
 
 If you find a bug, or something doesn't work as expected,
 please compile duplicut in debug mode and post an [issue] with
